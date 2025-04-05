@@ -45,3 +45,5 @@
 Данные для анализа были взяты с платформы Kaggle:
 
 [Fast Food Marketing Campaign A\B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test)
+
+*Данные использованы исключительно в образовательных и аналитических целях*
